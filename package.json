@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "start": "server.js"
   },
   "dependencies": {
     "@react-spring/web": "^9.7.3",
